@@ -1,0 +1,5 @@
+# MyStars-PowerShell
+|        名字         |                         地址                         |星数|                                                原始描述                                                |   语言   |                        主题                        |大小 |
+|---------------------|------------------------------------------------------|---:|--------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------|-----|
+|windows-imaging-tools|https://github.com/cloudbase/windows-imaging-tools.git| 479|Tools to automate the creation of a Windows image for OpenStack, supporting KVM, Hyper-V, ESXi and more.|PowerShell|                                                    |14 KB|
+|PowerRemoteDesktop   |https://github.com/DarkCoderSc/PowerRemoteDesktop.git |1626|Remote Desktop entirely coded in PowerShell.                                                            |PowerShell|desktop,powershell,rdp,remote,remote-control,windows|24 KB|

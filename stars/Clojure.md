@@ -1,0 +1,4 @@
+# MyStars-Clojure
+|  名字  |                  地址                  |星数|                       原始描述                       | 语言  |                                                                              主题                                                                               |大小|
+|--------|----------------------------------------|---:|------------------------------------------------------|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
+|swarmpit|https://github.com/swarmpit/swarmpit.git|2386|Lightweight mobile-friendly Docker Swarm management UI|Clojure|docker,docker-compose,docker-containers,docker-devops,docker-stack,docker-swarm,docker-swarm-ui,management,mobile-friendly,pwa,stack,swarm,swarm-mode,swarmpit,ui|6 KB|

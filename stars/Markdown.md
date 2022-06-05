@@ -1,0 +1,4 @@
+# MyStars-Markdown
+|    名字     |                     地址                      |星数 |                                      原始描述                                      |  语言  |                                                         主题                                                         |大小|
+|-------------|-----------------------------------------------|----:|------------------------------------------------------------------------------------|--------|----------------------------------------------------------------------------------------------------------------------|----|
+|linux-command|https://github.com/jaywcjlove/linux-command.git|18751|Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux|Markdown|bash,chrome,chrome-extension,command-line,gh-pages,linux,linux-command,ls,screen,screenshot,search,ssh,tools,web-tools|1 MB|
